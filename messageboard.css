@@ -1,0 +1,44 @@
+/* Set to crimson */
+ol > li:nth-child(1),
+ol > li:nth-child(5) {
+    color: crimson;
+}
+
+/* Set to green*/
+ol > li:nth-child(2),
+ol > li:nth-child(8) {
+    color: greenyellow;
+}
+
+/* Set to yellow*/
+ol > li:nth-child(3) {
+    color: yellow;
+}
+
+/* Set to red*/
+ol > li:nth-child(4),
+ol > li:nth-child(6) {
+    color: red;
+}
+
+/* Setting to orange */
+ol > li:nth-child(7) {
+    color: rgb(186, 123, 7); 
+}
+
+/* Style button*/
+#yes {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
+
+#no {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}

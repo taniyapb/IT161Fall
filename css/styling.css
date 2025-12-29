@@ -1,0 +1,20 @@
+h1 { 
+    color: green;
+}
+
+h2 {
+    color: purple;
+}
+
+p {
+    background-color: blue;
+    color: pink;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
